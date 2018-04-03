@@ -1,28 +1,21 @@
 <package>
 	<id>com.gstpsk.cylinder</id>
-	<name>Cylinder</name>
+	<name>Full Package</name>
 	<version>1.0.6-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This is an package for testing.</description>
-		<description>I am very cool.</description>
+		<description>This is a sample package to test my repo.</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>here is a screenshot of great work</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-	</screenshots>
 	<changelog>
 		<version>1.0.6-1</version>
-		<change>Initial Release</change>
+		<change>Initial release</change>
 	</changelog>
 	<links>
 		<link>

@@ -1,0 +1,13 @@
+Author: Gijsbert <ggrtp2003@outlook.com>
+Package: com.gstpsk.cylinder
+Version: 1.0.6-1
+Section: Tweaks
+Maintainer: Gijsbert <ggrtp2003@outlook.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/cylinder.deb
+Depiction: https://repogstpsk.github.io/cydia/depictions/cylinder
+Size: 255488
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+Description: This is a sample package to test my repo.
+Name: Cylinder
