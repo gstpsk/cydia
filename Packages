@@ -6,8 +6,22 @@ Maintainer: Gijsbert <ggrtp2003@outlook.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/cylinder.deb
-Depiction: https://repogstpsk.github.io/cydia/depictions/cylinder
+Depiction: https://gstpsk.github.io/cydia/depictions/cylinder
 Size: 255488
 MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
 Description: This is a sample package to test my repo.
 Name: Cylinder
+
+Author: Gijsbert <ggrtp2003@outlook.com>
+Package: com.gstpsk.neon80s
+Version: 1.0.3
+Section: Themes
+Maintainer: Gijsbert <ggrtp2003@outlook.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/neon80s.deb
+Depiction: https://gstpsk.github.io/cydia/depictions/neon80s
+Size: 1418616
+MD5sum: 083acf069d72622fc61c1fd6c25a919c
+Description: This is a theme for eighties lovers.
+Name: neon80s
