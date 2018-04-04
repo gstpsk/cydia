@@ -1,6 +1,6 @@
 <package>
 	<id>com.gstpsk.neon80s</id>
-	<name>Full Package</name>
+	<name>neon80s</name>
 	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
