@@ -34,7 +34,7 @@ Maintainer: Gijsbert <ggrtp2003@outlook.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/TestWidget.deb
-Depiction: https://gstpsk.github.io/cydia/depictions/neon80s/testwidget.html
+Depiction: https://gstpsk.github.io/cydia/depictions/testwidget/testwidget.html
 Size: 67292
 MD5sum: 7b0d2776cda12a5786f9a97da6ee4ed7
 Description: This is a widget to test.
