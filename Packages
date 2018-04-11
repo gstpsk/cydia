@@ -21,8 +21,8 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/neon80s.deb
 Depiction: https://gstpsk.github.io/cydia/depictions/neon80s/neon80s.html
-Size: 1520158
-MD5sum: fb2cf535b997bf3e0929baa4e38e2c80
+Size: 1532662
+MD5sum: 5c663ce35bf501f6a26501e431cb3a7b
 Description: This is a theme for eighties lovers.
 Name: neon80s
 
