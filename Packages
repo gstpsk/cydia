@@ -14,15 +14,15 @@ Name: Cylinder
 
 Author: gstpsk
 Package: com.gstpsk.neon80s
-Version: 1.1.2-1
+Version: 1.1.3-1
 Section: Themes
 Maintainer: gstpsk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/neon80s.deb
 Depiction: https://gstpsk.github.io/cydia/depictions/neon80s/neon80s.html
-Size: 2565760
-MD5sum: 4692d631c932fd44d234f1af2a845fd9
+Size: 1769780
+MD5sum: 03fc6f5787ca2c7f010b716989d1435c
 Description: This is a theme for eighties lovers.
 Name: neon80s
 
