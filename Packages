@@ -30,7 +30,7 @@ Author: Gijsbert <ggrtp2003@outlook.com>
 Package: com.gstpsk.testwidget
 Version: 1.0.0-1
 Section: AnemoneHTML
-Maintainer: Gijsbert <ggrtp2003@outlook.com>
+Maintainer: gstpsk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/TestWidget.deb
