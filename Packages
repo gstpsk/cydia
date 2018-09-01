@@ -39,3 +39,17 @@ Size: 67292
 MD5sum: 7b0d2776cda12a5786f9a97da6ee4ed7
 Description: This is a widget to test.
 Name: TestWidget
+
+Author: gstpsk
+Package: com.gstpsk.circulariconmask
+Version: 1.0-1
+Section: Themes
+Maintainer: gstpsk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/CircularIconMask.deb
+Depiction: https://gstpsk.github.io/cydia/depictions/circulariconmask/circulariconmask.html
+Size: 30292
+MD5sum: 965d15c64871662587c0d811a625ff7b
+Description: Make them icons round!
+Name: CircularIconMask
