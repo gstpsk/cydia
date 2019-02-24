@@ -1,7 +1,7 @@
 <package>
 	<id>com.tonyk7.0vigilate</id>
 	<name>Full Package</name>
-	<version>1.0-1</version>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -14,7 +14,7 @@
 		<description>Patch for Palert.</description>
 	</descriptionlist>
 	<changelog>
-		<version>1.0-1</version>
+		<version>0.0.1</version>
 		<change>Initial release</change>
 	</changelog>
 	<links>
