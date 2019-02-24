@@ -53,3 +53,17 @@ Size: 30292
 MD5sum: 965d15c64871662587c0d811a625ff7b
 Description: Make them icons round!
 Name: CircularIconMask
+
+Author: tonyk7 <gstpsk@outlook.com>
+Package: com.tonyk7.0vigilate
+Version: 1.0-1
+Section: Tweaks
+Maintainer: gstpsk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/0vigilate.deb
+Depiction: https://gstpsk.github.io/cydia/depictions/0vigilate/0vigilate.html
+Size: 2252
+MD5sum: 0cb4f7e68e2d215935aa6ecaeaaf9c68
+Description: Patch for Palert.
+Name: 0vigilate
