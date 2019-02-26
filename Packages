@@ -10,7 +10,7 @@ SHA1: ed66b46a6139d69c5f8bf1e92cbb6e104ef5fda3
 SHA256: b0542660091058ec445fd4fc49d8cb528b7c75ef25a04a0d9cf342f7e57c22d7
 Section: Tweak
 Description: 0vigilate is a patch for the tweak "Palert".
-Author: gstpsk <gstpsk@outlook.com>
+Author: tony7k
 Name: 0vigilate
 
 Package: com.gstpsk.neon80s
@@ -23,7 +23,7 @@ Size: 1769780
 MD5sum: 03fc6f5787ca2c7f010b716989d1435c
 SHA1: 14f28d0b4d1d99a1c1cf92baf58c30327aaa4f4c
 SHA256: 20d5752eb795a1da89e3c910c8d5bb7b8c02ce098bad14099a5cf56007589825
-Section: Themes - gstpsk
+Section: Themes
 Description: Rad pack ported to iOS. By an 80's lover for 80's lovers.
 Author: gstpsk
 Name: neon80s
@@ -57,7 +57,6 @@ SHA1: 8ee421d677df4ebf70b1f39f58e3ff9d3b831e1a
 SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
 Section: Tweaks
 Description: Make your icons dance
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Author: Reed Weichler <rweichler+cydia@gmail.com>
 Dev: rweichler
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
