@@ -1,69 +1,64 @@
-Author: Gijsbert <ggrtp2003@outlook.com>
-Package: com.gstpsk.cylinder
-Version: 1.0.6-1
-Section: Tweaks
-Maintainer: gstpsk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/cylinder.deb
-Depiction: https://gstpsk.github.io/cydia/depictions/cylinder/cylinder.html
-Size: 255488
-MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
-Description: This is a sample package to test my repo.
-Name: Cylinder
-
-Author: gstpsk
-Package: com.gstpsk.neon80s
-Version: 1.1.3-1
-Section: Themes
-Maintainer: gstpsk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/neon80s.deb
-Depiction: https://gstpsk.github.io/cydia/depictions/neon80s/neon80s.html
-Size: 1769780
-MD5sum: 03fc6f5787ca2c7f010b716989d1435c
-Description: This is a theme for eighties lovers.
-Name: neon80s
-
-Author: Gijsbert <ggrtp2003@outlook.com>
-Package: com.gstpsk.testwidget
-Version: 1.0.0-1
-Section: AnemoneHTML
-Maintainer: gstpsk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/TestWidget.deb
-Depiction: https://gstpsk.github.io/cydia/depictions/testwidget/testwidget.html
-Size: 67292
-MD5sum: 7b0d2776cda12a5786f9a97da6ee4ed7
-Description: This is a widget to test.
-Name: TestWidget
-
-Author: gstpsk
-Package: com.gstpsk.circulariconmask
-Version: 1.0-1
-Section: Themes
-Maintainer: gstpsk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/CircularIconMask.deb
-Depiction: https://gstpsk.github.io/cydia/depictions/circulariconmask/circulariconmask.html
-Size: 30292
-MD5sum: 965d15c64871662587c0d811a625ff7b
-Description: Make them icons round!
-Name: CircularIconMask
-
-Author: tony7k <ihavenoidea@outlook.com>
 Package: com.gstpsk.0vigilate
 Version: 0.0.1
-Section: Tweaks
-Maintainer: gstpsk
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: gstpsk <gstpsk@outlook.com>
+Installed-Size: 72
 Filename: ./debs/0vigilate.deb
-Depiction: https://gstpsk.github.io/cydia/depictions/0vigilate/0vigilate.html
 Size: 2378
 MD5sum: 20d835fc33ef4cbda0208db0b0fa2c76
-Description: Patch for Palert.
+SHA1: ed66b46a6139d69c5f8bf1e92cbb6e104ef5fda3
+SHA256: b0542660091058ec445fd4fc49d8cb528b7c75ef25a04a0d9cf342f7e57c22d7
+Section: Tweak
+Description: 0vigilate is a patch for the tweak "Palert".
+Author: gstpsk <gstpsk@outlook.com>
 Name: 0vigilate
+
+Package: com.gstpsk.neon80s
+Version: 1.1.3-1
+Architecture: iphoneos-arm
+Maintainer: gstpsk
+Depends: com.anemonetheming.anemone
+Filename: ./debs/neon80s.deb
+Size: 1769780
+MD5sum: 03fc6f5787ca2c7f010b716989d1435c
+SHA1: 14f28d0b4d1d99a1c1cf92baf58c30327aaa4f4c
+SHA256: 20d5752eb795a1da89e3c910c8d5bb7b8c02ce098bad14099a5cf56007589825
+Section: Themes - gstpsk
+Description: Rad pack ported to iOS. By an 80's lover for 80's lovers.
+Author: gstpsk
+Name: neon80s
+
+Package: com.gstpsk.testwidget
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: gstpsk
+Filename: ./debs/TestWidget.deb
+Size: 67292
+MD5sum: 7b0d2776cda12a5786f9a97da6ee4ed7
+SHA1: dff6bdfedecc21c0a9e2093317d99bccc68dee50
+SHA256: 36a039f7babefdb51206592667fb916c777f9fea973660cea78ff87f60b14484
+Section: Widgets
+Homepage: gstpsk.github.io/cydia
+Description: Widget for testing.
+Author: gstpsk
+Name: TestWidget
+Sponsor: none
+
+Package: com.gstpsk.cylinder
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: gstpsk <gstpsk@outlook.com>
+Installed-Size: 899
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/cylinder.deb
+Size: 255488
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+SHA1: 8ee421d677df4ebf70b1f39f58e3ff9d3b831e1a
+SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
+Section: Tweaks
+Description: Make your icons dance
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Dev: rweichler
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Name: Cylinder
