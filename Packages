@@ -27,6 +27,7 @@ Section: Themes
 Description: Rad pack ported to iOS. By an 80's lover for 80's lovers.
 Author: gstpsk
 Name: neon80s
+Depiction: ./depictions/neon80s/index.html
 
 Package: com.gstpsk.testwidget
 Version: 1.0.0-1
@@ -56,7 +57,7 @@ MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
 SHA1: 8ee421d677df4ebf70b1f39f58e3ff9d3b831e1a
 SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
 Section: Tweaks
-Description: Make your icons dance
+Description: Sample package to test repo
 Author: Reed Weichler <rweichler+cydia@gmail.com>
 Dev: rweichler
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
