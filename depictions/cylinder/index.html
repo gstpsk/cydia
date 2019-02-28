@@ -15,6 +15,11 @@
       body{
         background-color: rgb(239, 239, 244);
       }
+
+      #social-btn {
+        margin-left: 5px;
+        margin-right: 5px;
+      }
     </style>
   </head>
   <body>
@@ -40,8 +45,8 @@
           </div>
         </div>
         <div class="btn-group-lg text-center" style="margin-top: 25px;margin-bottom: 25px;">
-          <a href="https://github.com/rweichler" class="btn btn-primary">Website</a>
-          <button class="btn btn-primary" disabled>Twitter</button>
+          <button onclick=" window.open('https://github.com/rweichler','_blank')" class="btn btn-primary" id="social-btn">Website</a>
+          <button class="btn btn-primary" disabled id="social-btn">Twitter</button>
         </div>
     </div>
 
