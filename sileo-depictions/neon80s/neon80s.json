@@ -14,6 +14,7 @@
                 },
                 {
                     "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -21,6 +22,18 @@
                             "fullSizeURL": "https://gstpsk.github.io/cydia/sileo-depictions/neon80s/screenshot.png"
                         }
                     ],
+                    "ipad": {
+                        "itemCornerRadius": 9,
+                        "itemSize": "{320, 550.8266666666667}",
+                        "screenshots": [
+                          {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://gstpsk.github.io/cydia/sileo-depictions/neon80s/screenshot.png?size=640",
+                            "fullSizeURL": "https://gstpsk.github.io/cydia/sileo-depictions/neon80s/screenshot.png"
+                          }
+                        ],
+                        "class": "DepictionScreenshotView"
+                    },
                     "class": "DepictionScreenshotsView"
                 },
                 {
